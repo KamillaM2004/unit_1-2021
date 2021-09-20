@@ -16,7 +16,12 @@ Apart for this requirements, the owner is open to any type of game, topic or gen
 ## Proposed Solution
 
 ## Success Criteria
-
+1. The game must have music 
+2. The game has to be entirely text-based
+3. The game must record the time played
+4. The game must record the player name and score
+5. The game must have zero ads 
+6. The game must be easy to learn and play
 
 # Criteria B: Design
 
