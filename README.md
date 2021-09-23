@@ -14,6 +14,9 @@ The owner of the local game shop is an enthusiast of classic computer games. He 
 Apart for this requirements, the owner is open to any type of game, topic or genre.
 
 ## Proposed Solution
+I will to design and make a text based game for a client who is interested in gaming. The game will be about war and is constructed using the software Python. It will take 2 weeks to make and will be evaluated according to the criteria below.
+
+
 
 ## Success Criteria
 1. The game has to be entirely text-based
