@@ -25,6 +25,7 @@ Apart for this requirements, the owner is open to any type of game, topic or gen
 
 # Criteria B: Design
 ![](image.png)
+![Version 1 0](https://user-images.githubusercontent.com/90993726/134459088-c6b5c476-f814-4b06-8eb9-d3bd905b99a6.jpg)
 
 ## System Diagram
 
